@@ -1,0 +1,41 @@
+## Who developed the pythen programming language ?
+## Ans-Guido Van Rossum.
+## Which type of programming does python support ?
+## Ans-Python is a multi-paradigm programming language.Object-oriented programming and Structured programming languageare fully supported.
+## Is python case sensitive When dealing with identifiers ?
+## Ans-Yes, python is case sensitive language.
+## What is the correct extension of the python file ?
+## Ans- ".py"
+## Is python code compiled or interpreted ?
+## Ans- Python is an interpreted language.
+## Name a few block of code used to define in python language ?
+## Ans- A module, a function body, and a class definition braces{}.
+## State a character used to give single-line comments in python ?
+## Ans- # character is used to give single-line comment in python.
+## Mention functions which can help us to find the version of python that we are currently working on ?
+## Ans- The function sys. version can help us to find the version of python that we are currently working on.
+## Python supports the creation of anonymous functions at runtime, using a construct called ? 
+## Ans- Lambda function.
+## What does pip stand for python ?
+## Ans- Preferred installer program.
+## Mention a few built-in functions in python ?
+## Ans- int, str, append, index, sort, len, pop, remove, insert, keys, print, type.
+## What is the maximum possible length of an identifier in python ?
+## Ans- 79 character.
+## What are the benefits of using python ?
+## Ans- Data science, basic game development, web development, computer graphics etc. 
+## How is memory managed in python ?
+## Ans- Involves a private heap containing all python objects and data structures.
+## How to install python on windows and set path variables ?
+## Ans- 1. Right-clicking This PC and going to properties.
+        2. Clicking on Advanced system setting in the menu on the left.
+        3. Clicking on the Environment Variables Button on the bottom right.
+        4. In the system variables section,selecting the Path Variable and
+           clicking on Edit. The next screen will show all the directions that are currently 
+           a part of the Path variable.
+        5. Clicking on New and entering Python's install directory. 
+## Is indentation required in Python ?
+## Ans- Indentation refers to the spaces at the beginning of a code line.
+        so, the indentation in Python is very important.
+        
+        
