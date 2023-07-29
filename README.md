@@ -41,8 +41,7 @@
 
 ## 📊 My Github Stats
 
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar0004&show_icons=true&locale=en&layout=compact" alt="manishkumar0004" /></p>
-
+    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar0004&show_icons=true&locale=en" alt="manishkumar0004" /></p>
 
 
